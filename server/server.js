@@ -8,14 +8,11 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(require("./routes"));
 
-mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost/social-network",
-  {
-    useFindAndModify: false,
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  }
-);
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/solid-spork", {
+  useFindAndModify: false,
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
 
 // Use this to log mongo queries being executed
 mongoose.set("debug", true);

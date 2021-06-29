@@ -1,7 +1,7 @@
 {
-  "name": "socia-network-api",
+  "name": "solid-spork",
   "version": "1.0.0",
-  "description": "This is a project where I built the APIs on the backend for a social network web application. It allows users to share their thoughts, are able to react to friend's thoughts, and create a friends list.",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.12.12"
+    "mongoose": "^5.13.0"
   }
 }
