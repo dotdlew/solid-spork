@@ -1,8 +1,14 @@
 # solid-spork
-18. NoSQL Challenge: Social Network API
+Module 18 Challenge: NoSQL Social Network API
 
 # Description
 a social network api backend 
+
+# Author
+Daniel Lewis
+
+# Demonstration
+https://drive.google.com/file/d/13xOxvmha5fskGYRQQISyGM-g2n20WOWM/view
 
 # User Story
 AS A social media startup
@@ -34,10 +40,3 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 `npm i express`
 
 `npm i mongoose`
-
-# author
-Daniel Lewis
-
-# Demonstration
-
-https://drive.google.com/file/d/13xOxvmha5fskGYRQQISyGM-g2n20WOWM/view
