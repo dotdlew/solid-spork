@@ -5,7 +5,7 @@ Module 18 Challenge: NoSQL Social Network API
 a social network api backend 
 
 # Author
-Daniel Lewis
+Daniel H. Lewis
 
 # Demonstration
 https://drive.google.com/file/d/13xOxvmha5fskGYRQQISyGM-g2n20WOWM/view
